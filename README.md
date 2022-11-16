@@ -2,4 +2,4 @@
 
 API desenvolvida durante o evento JS Stack
 
-Tecnologias: NodeJS + Typescript + MongoDB
+Tecnologias: NodeJS + TypeScript  + MongoDB
