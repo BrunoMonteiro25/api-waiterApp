@@ -8,6 +8,7 @@ NodeJS(Express) + TypeScript + MongoDB
 
 API para o projeto (WaiterApp) que desenvolvi durante o evento (O poder do Javascript) do canal do youtube (Mateus Silva).
 
+
 ### Funcionalidades :checkered_flag:
 
 - Criar categoria
